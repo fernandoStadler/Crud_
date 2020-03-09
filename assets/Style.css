@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: rgb(116, 116, 173);
+    color: white;
+    text-align: center;
+}
+
+
+.footer{
+    background-color: rgb(116, 116, 173);
+    color: white;
+    margin-top: 590px;
+    text-align: center;
+}
+
+.top-table{
+    background-color: rgb(126, 158, 226);
+    width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+
+}
+
+.top-line{
+    background-color: rgb(255, 253, 253);
+    width: 50%;
+    border: 1px solid rgb(8, 8, 8, 0.5);
+    text-align: center;
+    color: rgb(15, 12, 12);
+    }
+
+.add{
+
+
+    text-align: right;
+    margin-left: 91.5%;    
+}
+
+.input_bar{
+
+    width: 100%;
+    border-radius: 5px;  
+}
